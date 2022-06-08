@@ -10,7 +10,7 @@
 <br>
 <br>
 
-🤔 Learning: <img src="./img/redux1.png" width="50px" height="25px" />
+🤔 Learning: <img src="./img/redux1.png" width="50px" height="22px" />
 <br>
 
 ⚡ Next step: get a job offer!
