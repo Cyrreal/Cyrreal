@@ -2,7 +2,7 @@
 
 🔭 Currently working on improving my skills in React.js
 
-🌱 I am using ![Alt text](img/HTML55.png?raw=true "Title")
+🌱 I am using <img src="img/HTML55.png" width="50px" height="30px" />
 
 <!--
 **Cyrreal/Cyrreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
