@@ -13,7 +13,6 @@
 
 🤔 Learning: <img src="./img/redux1.png" width="50px" height="20px" />
 <br>
-<br>
 
 ⚡ Next step: get a job offer!
 <br>
