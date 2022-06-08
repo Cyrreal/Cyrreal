@@ -16,7 +16,7 @@
 
 <hr/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Cyrreal=Cyrreal&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrreal&hide=javascript,css,scss,html&theme=tokyonight)
 
 <!--
 **Cyrreal/Cyrreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
