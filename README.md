@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, i am Kirill 👋
+
+🔭 Currently working on improving my skills in React.js
+
+🌱 I am using ![Alt text](img/HTML55.png?raw=true "Title")
 
 <!--
 **Cyrreal/Cyrreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
